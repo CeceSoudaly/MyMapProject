@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A90FD0C21EA05DBC0087DFD2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = G3BLNBS74P;
 						ProvisioningStyle = Automatic;
 					};
 					A90FD0D61EA05DBD0087DFD2 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G3BLNBS74P;
 				INFOPLIST_FILE = MyMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.CeceMobile.MyMap;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = G3BLNBS74P;
 				INFOPLIST_FILE = MyMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.CeceMobile.MyMap;
@@ -503,6 +506,7 @@
 				A90FD0ED1EA05DBD0087DFD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A90FD0EE1EA05DBD0087DFD2 /* Build configuration list for PBXNativeTarget "MyMapTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +515,7 @@
 				A90FD0F01EA05DBD0087DFD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A90FD0F11EA05DBD0087DFD2 /* Build configuration list for PBXNativeTarget "MyMapUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				A90FD0F31EA05DBD0087DFD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
